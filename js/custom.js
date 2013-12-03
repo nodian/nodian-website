@@ -262,7 +262,7 @@ jQuery(document).ready(function(){
 ============================================================ */
 jQuery(function(){
 	jQuery('#tweets').tweetable({
-		username: 'philipbeel', 
+		username: 'NodianProject', 
 		time: true,
 		rotate: false,
 		speed: 4000, 
@@ -634,7 +634,7 @@ jQuery(document).ready(function() {
 **************************Google Map*************************
 ===========================================================*/		
 function initialize() {
-	var latlng = new google.maps.LatLng(48.856614,2.312222);
+	var latlng = new google.maps.LatLng(39.753278,30.49328);
 	var settings = {
 		zoom: 15,
 		center: latlng,
@@ -651,7 +651,7 @@ function initialize() {
 };
 
 var map = new google.maps.Map(document.getElementById("map_canvas"), settings);
-var point = new google.maps.LatLng(48.856614,2.312222);
+var point = new google.maps.LatLng(39.753278,30.49328);
 
   
 var image = new google.maps.MarkerImage(
