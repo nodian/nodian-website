@@ -1431,19 +1431,37 @@ a,
 	width:45px;
 }
 
-.member-content .progress-bar .progress-75 {
-	width:75% !important;
-}
-.member-content .progress-bar .progress-90 {
-	width:90% !important;
-}
+
 .member-content .progress-bar .progress-50 {
 	width:50% !important;
+}
+.member-content .progress-bar .progress-55 {
+	width:55% !important;
 }
 .member-content .progress-bar .progress-60 {
 	width:60% !important;
 }
-
+.member-content .progress-bar .progress-65 {
+	width:65% !important;
+}
+.member-content .progress-bar .progress-70 {
+	width:70% !important;
+}
+.member-content .progress-bar .progress-75 {
+	width:75% !important;
+}
+.member-content .progress-bar .progress-80 {
+	width:80% !important;
+}
+.member-content .progress-bar .progress-85 {
+	width:85% !important;
+}
+.member-content .progress-bar .progress-90 {
+	width:90% !important;
+}
+.member-content .progress-bar .progress-95 {
+	width:95% !important;
+}
 
 /* =========================================================
 *************************Our Services***********************
